@@ -31,7 +31,7 @@ function Home2() {
               My field of Interest's are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                also in areas related to
                 <b className="purple">
                   Deep Learning and Natural Launguage Processing.
                 </b>
@@ -42,7 +42,7 @@ function Home2() {
               with <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
-                  {" "}
+                 
                   Modern Javascript Library and Frameworks
                 </b>
               </i>
@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/Developits"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +77,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/Nahidul__Islam"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="www.linkedin.com/in/nahidul-islam-dev"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
