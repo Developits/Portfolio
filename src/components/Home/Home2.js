@@ -42,7 +42,6 @@ function Home2() {
               with <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
-                 
                   Modern Javascript Library and Frameworks
                 </b>
               </i>
@@ -97,7 +96,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/nahidul_islam215"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
